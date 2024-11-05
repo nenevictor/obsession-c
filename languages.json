@@ -1,0 +1,33 @@
+{
+	"ukrainian": {
+		"title": "Українська",
+		"codepoints": "абвгґдеєжзиіїйклмнопрстуфхцчшщьюяАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ",
+		"dictionary": {
+			"title": "Одержимість-С",
+			"intro_blinking_text": "Натисни SPACE щоб почати!",
+			"button_begin": "ПОЧАТОК",
+			"button_settings": "НАЛАШТУВАННЯ",
+			"button_exit": "ВИХІД",
+			"title_settings": "Налаштування",
+			"slider_cursor_smoothing": "Згладжування курсору",
+			"slider_circles_count": "Кількість кіл",
+			"slider_circles_narrowing_speed": "Швидкість звуження кіл",
+			"slider_target_fps": "Межа FPS",
+			"checker_try_vsync": "Вертикальна синхронізація",
+			"label_easy_mode": "легкий",
+			"label_normal_mode": "нормальний",
+			"label_hard_mode": "тяжкий",
+			"label_hit_count": "Рахунок",
+			"label_mis_count": "Промахів",
+			"label_mode": "Режим",
+			"button_use": "ЗАСТОСУВАТИ",
+			"button_close": "ЗАКРИТИ",
+			"title_game_press_space": "Натисни SPACE щоб почати!",
+			"text_game_press_esc": "Або ESC щоб програти...",
+			"text_game_score": "Рахунок",
+			"title_game_failure": "Журба!",
+			"title_game_success": "Ви перемогли!",
+			"text_game_result_helper": "ESC - до головного меню    R - перезапуск"
+		}
+	}
+}

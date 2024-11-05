@@ -1,0 +1,13 @@
+{
+   "window_width": 800,
+   "window_height": 600,
+   "circles_count": 9,
+   "target_fps": 85,
+   "cursor_smoothing": 0.211538,
+   "text_paragraph_size": 4.000000,
+   "text_title_size": 9.000000,
+   "circles_narrowing_speed": 0.001353,
+   "try_vsync": true,
+   "game_mode": 1,
+   "language_name": "english"
+}
